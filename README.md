@@ -1,6 +1,7 @@
 OppiaMobile Learning
 ====================
-This is a localized and customized version of OppiaMobile to Tigrigna. :
+This is a localized and customized version of OppiaMobile to Tigrigna.
+
 It has language switching option and hence others who need language localization benefit from this.  
 
 For full information about OppiaMobile, please visit:
