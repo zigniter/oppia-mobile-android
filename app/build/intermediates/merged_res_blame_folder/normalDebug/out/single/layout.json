@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/course_title_bar.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/course_title_bar.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/view_quiz_info.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/view_quiz_info.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/view_badge.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/view_badge.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/dialog_password.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/dialog_password.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_course_index_section_header.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_course_index_section_header.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_course_list.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_course_list.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_courses_list.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_courses_list.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_leaderboard.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_leaderboard.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/view_media_scan.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/view_media_scan.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_quiz_attempt.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_quiz_attempt.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_preferences.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_preferences.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_quiz_unavailable.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_quiz_unavailable.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_course_download.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_course_download.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_quiz_shortanswer.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_quiz_shortanswer.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_scorecard.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_scorecard.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_download.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_download.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/view_quiz_stats.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/view_quiz_stats.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_global_scorecard.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_global_scorecard.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/tablayout_fixed_tab.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/tablayout_fixed_tab.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_quiz.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_quiz.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/view_customfield_spinner.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/view_customfield_spinner.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/toolbar.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_analytics_optin.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_analytics_optin.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_device_list.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_global_quiz_attempts.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_global_quiz_attempts.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_scorecard.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_scorecard.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_about.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_search_results.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_search_results.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_leaderboard.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_leaderboard.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_quiz_matching.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_quiz_matching.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_url.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_url.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_view_digest.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_view_digest.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_transferable_file.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_transferable_file.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_welcome.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/dialog_download_user_data.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/dialog_download_user_data.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_device.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_device.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/view_gamification_notif.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/view_gamification_notif.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/view_customfield_text.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/view_customfield_text.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_quiz_multichoice.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_quiz_multichoice.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_tabs.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_tabs.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_privacy.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_privacy.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_quiz_attempt_global.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_quiz_attempt_global.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/dialog_lollipop_storage_access.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/dialog_lollipop_storage_access.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/quiz_score_badge.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/quiz_score_badge.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_quiz_dragandrop.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_quiz_dragandrop.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_about.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_resource.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_resource.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/media_controller.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/media_controller.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_webview.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_webview.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/tablayout_fullwidth_tab.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/tablayout_fullwidth_tab.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_change_password.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_activitylog.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_activitylog.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_video_player.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_video_player.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_activities.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_activities.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/drawer_header.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/drawer_header.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/view_permissions_explanation.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/view_permissions_explanation.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_fragment_badges_list.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_fragment_badges_list.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_course_index.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_course_index.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_quiz_scorecard.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_quiz_scorecard.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/layout_dialog.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/layout_dialog.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_login.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_widget_quiz_feedback.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_widget_quiz_feedback.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_course.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_course.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_feedback_results.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_feedback_results.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_badges.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_badges.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_download_media.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_download_media.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_course_index_section_item.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_course_index_section_item.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_reset_password.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_reset_password.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_quiz_essay.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_quiz_essay.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/view_status_badge.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/view_status_badge.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/view_spinner_dropdown_item.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/view_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_quiz_results.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_quiz_results.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_quiz_numerical.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_quiz_numerical.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_tag.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_tag.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/widget_quiz_multiselect.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/widget_quiz_multiselect.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_welcome.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_activitylog.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_activitylog.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_activity_type.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_activity_type.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/custom_spinner_item.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/custom_spinner_item.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_quiz_attempt.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_quiz_attempt.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/dialog_course_contextmenu.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/dialog_course_contextmenu.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_register.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_start_up.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_start_up.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_course_quiz_attempts.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_course_quiz_attempts.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_fragment_points_list.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_fragment_points_list.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/row_media_download.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/row_media_download.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_edit_profile.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_scorecard.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_scorecard.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_course_metapage.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_course_metapage.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_search.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/dialog_delete_account.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/dialog_delete_account.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/activity_sync.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/activity_sync.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_remember_username.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_remember_username.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/menu_points.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/menu_points.xml"
+    },
+    {
+        "merged": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/stripped.dir/layout/fragment_points.xml",
+        "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/layout/fragment_points.xml"
+    }
+]

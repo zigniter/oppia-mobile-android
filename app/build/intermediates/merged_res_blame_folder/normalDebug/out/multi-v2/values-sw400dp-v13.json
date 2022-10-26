@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/build/intermediates/incremental/mergeNormalDebugResources/merged.dir/values-sw400dp-v13/values-sw400dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/ialex/Desktop/dhc/oppia-mobile-android/app/src/main/res/values-sw400dp/dimens.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "106,55",
+                        "endColumns": "43,50",
+                        "endOffsets": "145,101"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,50",
+                        "endOffsets": "94,145"
+                    }
+                }
+            ]
+        }
+    ]
+}

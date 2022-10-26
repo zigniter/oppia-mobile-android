@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:key="prefNotifications">
+
+    <PreferenceCategory
+        android:title="@string/prefSectionSystemNotifs"
+        app:iconSpaceReserved="false">
+
+        <org.digitalcampus.oppia.utils.custom_prefs.AdminCheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefDisableNotifications"
+            android:title="@string/prefDisableNotifications"
+            app:allowDividerBelow="true"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/prefSectionGamification"
+        app:iconSpaceReserved="false">
+
+        <CheckBoxPreference
+            app:defaultValue="@string/prefShowGamificationEventsDefault"
+            android:key="prefShowGamificationEvents"
+            android:title="@string/prefShowGamificationEvents"
+            app:allowDividerBelow="true"
+            app:iconSpaceReserved="false" />
+
+        <ListPreference
+            android:defaultValue="@string/prefGamificationPointsAnimationDefault"
+            android:dependency="prefShowGamificationEvents"
+            android:entries="@array/GamificationPointsAnimation"
+            android:entryValues="@array/GamificationPointsAnimationValues"
+            android:key="prefGamificationPointsAnimation"
+            android:title="@string/prefAnimationTypeGamificationPoints"
+            app:allowDividerAbove="true"
+            app:allowDividerBelow="true"
+            app:iconSpaceReserved="false" />
+
+        <EditTextPreference
+            android:defaultValue="@string/prefDurationGamificationPointsViewDefault"
+            android:dependency="prefShowGamificationEvents"
+            android:inputType="number"
+            android:key="prefDurationGamificationPointsView"
+            android:title="@string/prefDurationAnimationTypeGamificationPointsView"
+            app:allowDividerAbove="true"
+            app:allowDividerBelow="true"
+            app:iconSpaceReserved="false"
+            app:summary="@string/prefDurationAnimation_summary" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/prefSectionReminder"
+        app:iconSpaceReserved="false">
+
+        <org.digitalcampus.oppia.utils.custom_prefs.AdminCheckBoxPreference
+            android:defaultValue="true"
+            android:key="prefCoursesReminderEnabled"
+            android:title="@string/prefCoursesReminderEnabled"
+            app:allowDividerBelow="true"
+            app:iconSpaceReserved="false" />
+
+        <org.digitalcampus.oppia.utils.custom_prefs.AdminListPreference
+            android:key="prefCoursesReminderInterval"
+            android:defaultValue="@string/prefCoursesReminderIntervalDefault"
+            android:entries="@array/reminder_intervals"
+            android:entryValues="@array/reminder_intervals_values"
+            android:dependency="prefCoursesReminderEnabled"
+            android:title="@string/prefCoursesReminderIntervalTitle"
+            app:allowDividerAbove="true"
+            app:allowDividerBelow="true"
+            app:iconSpaceReserved="false"
+            app:useSimpleSummaryProvider="true"/>
+
+        <org.digitalcampus.oppia.utils.custom_prefs.AdminMultiSelectListPreference
+            android:key="prefCoursesReminderDays"
+            android:defaultValue="@array/days_of_week_values_default"
+            android:dependency="prefCoursesReminderEnabled"
+            android:entries="@array/days_of_week"
+            android:entryValues="@array/days_of_week_values"
+            android:title="@string/prefCoursesReminderDaysTitle"
+            app:allowDividerAbove="true"
+            app:allowDividerBelow="true"
+            app:iconSpaceReserved="false"
+            app:useSimpleSummaryProvider="true" />
+
+        <org.digitalcampus.oppia.utils.custom_prefs.AdminTimePreference
+            android:key="prefCoursesReminderTime"
+            android:title="@string/prefCoursesReminderTimeTitle"
+            android:dependency="prefCoursesReminderEnabled"
+            app:allowDividerAbove="true"
+            app:allowDividerBelow="true"
+            app:iconSpaceReserved="false"
+            android:defaultValue="@string/prefCoursesReminderTimeDefault"/>
+
+        <Preference
+            android:key="prefRemindersLog"
+            android:title="Reminders Log"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+</androidx.preference.PreferenceScreen>

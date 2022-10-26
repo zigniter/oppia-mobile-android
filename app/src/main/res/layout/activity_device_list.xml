@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingStart="@dimen/padding_medium"
+        android:text="@string/bluetooth.select_device"
+        android:textAppearance="@style/CourseTitle"
+        android:textStyle="bold"
+        android:theme="@style/Header" />
+
+
+    <TextView
+        android:id="@+id/paired_devices_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/stroke"
+        android:paddingStart="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/padding_medium"
+        android:paddingEnd="@dimen/activity_horizontal_margin"
+        android:paddingBottom="@dimen/padding_medium"
+        android:text="@string/paired_devices"
+        android:visibility="gone"
+        android:textColor="@color/text_grey"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_paired_devices"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:fadeScrollbars="false"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="vertical"/>
+
+    <TextView
+        android:id="@+id/new_devices_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/stroke"
+        android:paddingStart="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/padding_medium"
+        android:paddingEnd="@dimen/activity_horizontal_margin"
+        android:paddingBottom="@dimen/padding_medium"
+        android:text="@string/other_devices"
+        android:visibility="gone"
+        android:textColor="@color/text_grey"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_new_devices"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:fadeScrollbars="false"
+        android:visibility="gone"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="vertical"/>
+
+
+    <LinearLayout
+        android:id="@+id/scanning_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <ProgressBar
+            android:id="@+id/progressBar4"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/padding_medium"
+            android:layout_weight="0"
+            android:text="@string/bluetooth_device_scanning"
+            android:textColor="@color/text_grey"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_scan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/padding_medium"
+        android:gravity="center_horizontal"
+        android:text="@string/bluetooth.button_scan" />
+
+</LinearLayout>

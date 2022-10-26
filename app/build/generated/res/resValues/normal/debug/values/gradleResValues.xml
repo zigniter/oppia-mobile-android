@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from build type: debug -->
+    <string name="MENU_ALLOW_COURSE_DOWNLOAD_DEFAULT_VALUE" translatable="false">true</string>
+    <!-- Value from build type: debug -->
+    <string name="MENU_ALLOW_LANGUAGE_DEFAULT_VALUE" translatable="false">true</string>
+    <!-- Value from build type: debug -->
+    <string name="MENU_ALLOW_LOGOUT_DEFAULT_VALUE" translatable="false">true</string>
+    <!-- Value from build type: debug -->
+    <string name="SHOW_COURSE_DESCRIPTION" translatable="false">false</string>
+    <!-- Value from build type: debug -->
+    <string name="START_COURSEINDEX_COLLAPSED" translatable="false">false</string>
+    <!-- Value from build type: debug -->
+    <string name="oppiaServerDomain" translatable="false">*.oppia-mobile.org</string>
+    <!-- Value from build type: debug -->
+    <string name="oppiaServerHost" translatable="false">demo.oppia-mobile.org</string>
+    <!-- Value from build type: debug -->
+    <string name="prefAdminPasswordDefault" translatable="false"></string>
+    <!-- Value from build type: debug -->
+    <string name="prefCoursesReminderDaysDefaultSerialized" translatable="false">2</string>
+    <!-- Value from build type: debug -->
+    <string name="prefCoursesReminderIntervalDefault" translatable="false">WEEKLY</string>
+    <!-- Value from build type: debug -->
+    <string name="prefCoursesReminderTimeDefault" translatable="false">10:30</string>
+    <!-- Value from build type: debug -->
+    <string name="prefDurationGamificationPointsViewDefault" translatable="false">2</string>
+    <!-- Value from build type: debug -->
+    <string name="prefGamificationPointsAnimationDefault" translatable="false">3</string>
+    <!-- Value from build type: debug -->
+    <string name="prefServerDefault" translatable="false">https://demo.oppia-mobile.org/</string>
+    <!-- Value from build type: debug -->
+    <string name="prefShowGamificationEventsDefault" translatable="false">true</string>
+
+</resources>
